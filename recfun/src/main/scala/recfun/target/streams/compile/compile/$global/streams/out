@@ -1,0 +1,20 @@
+[0m[[0m[31merror[0m] [0m[0mD:\personal\Trainings\Scala\recfun\src\main\scala\recfun\Main.scala:17:8: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m  print("Coord:"+ r +","+c)[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\personal\Trainings\Scala\recfun\src\main\scala\recfun\Main.scala:18:7: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m  	if(c==0 || c==r) 1[0m
+[0m[[0m[31merror[0m] [0m[0m  	   ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\personal\Trainings\Scala\recfun\src\main\scala\recfun\Main.scala:18:15: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m  	if(c==0 || c==r) 1[0m
+[0m[[0m[31merror[0m] [0m[0m  	           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\personal\Trainings\Scala\recfun\src\main\scala\recfun\Main.scala:18:18: not found: value r[0m
+[0m[[0m[31merror[0m] [0m[0m  	if(c==0 || c==r) 1[0m
+[0m[[0m[31merror[0m] [0m[0m  	              ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\personal\Trainings\Scala\recfun\src\main\scala\recfun\Main.scala:20:12: not found: value c[0m
+[0m[[0m[31merror[0m] [0m[0m    pascal(c - 1, r - 1) + pascal(c + 1, r - 1)   //> pascal: (c: Int, r: Int)Int[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\personal\Trainings\Scala\recfun\src\main\scala\recfun\Main.scala:20:19: not found: value r[0m
+[0m[[0m[31merror[0m] [0m[0m    pascal(c - 1, r - 1) + pascal(c + 1, r - 1)   //> pascal: (c: Int, r: Int)Int[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m

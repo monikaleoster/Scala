@@ -1,0 +1,8 @@
+coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+    org.scala-lang.modules:scala-xml_2.11:1.0.2:
+        download error: Caught java.io.IOException: Server returned HTTP response code: 416 for URL: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom (Server returned HTTP response code: 416 for URL: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom) while downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom
+        not found: C:\Users\Monika.Arora\.ivy2\local\org.scala-lang.modules\scala-xml_2.11\1.0.2\ivys\ivy.xml
+[0m[[31merror[0m] [0m(*:[31mcoursierResolutions[0m) coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:[0m
+[0m[[31merror[0m] [0m    org.scala-lang.modules:scala-xml_2.11:1.0.2:[0m
+[0m[[31merror[0m] [0m        download error: Caught java.io.IOException: Server returned HTTP response code: 416 for URL: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom (Server returned HTTP response code: 416 for URL: https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom) while downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom[0m
+[0m[[31merror[0m] [0m        not found: C:\Users\Monika.Arora\.ivy2\local\org.scala-lang.modules\scala-xml_2.11\1.0.2\ivys\ivy.xml[0m
